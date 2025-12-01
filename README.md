@@ -108,8 +108,7 @@ SkillForge aims to:
 
 ### **Frontend**
 
-* HTML
-* CSS
+* React + vite
 * JavaScript
 
 ### **Backend**
